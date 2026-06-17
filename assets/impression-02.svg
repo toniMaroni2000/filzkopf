@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Filzkugeln Platzhalter</title>
+  <desc id="desc">Abstrakte Filzkugeln auf heller Fläche.</desc>
+  <rect width="1200" height="900" fill="#fffdf8"/>
+  <rect x="0" y="620" width="1200" height="280" fill="#e7d8c2"/>
+  <circle cx="330" cy="560" r="150" fill="#b4684b"/>
+  <circle cx="510" cy="430" r="122" fill="#2f4c3a"/>
+  <circle cx="690" cy="565" r="172" fill="#8a6243"/>
+  <circle cx="850" cy="420" r="108" fill="#d9e0d3"/>
+  <circle cx="750" cy="270" r="62" fill="#f3eadb"/>
+  <path d="M188 726c188 68 404 74 648 18" fill="none" stroke="#2f4c3a" stroke-width="20" stroke-linecap="round" opacity=".25"/>
+</svg>

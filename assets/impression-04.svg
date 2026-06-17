@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Filzobjekt Platzhalter</title>
+  <desc id="desc">Abstraktes handgemachtes Filzobjekt in warmen Farben.</desc>
+  <rect width="1200" height="900" fill="#f3eadb"/>
+  <path d="M0 720c154-76 300-105 438-88 149 18 290 96 444 88 116-6 222-58 318-116v296H0Z" fill="#2f4c3a" opacity=".8"/>
+  <path d="M332 204c156-80 315-80 476 0 64 32 112 96 112 172 0 187-162 326-352 326S248 563 248 376c0-76 33-139 84-172Z" fill="#fffdf8"/>
+  <path d="M391 285c116-48 232-48 348 0" fill="none" stroke="#b4684b" stroke-width="18" stroke-linecap="round" opacity=".85"/>
+  <path d="M355 440c145 70 291 70 438 0" fill="none" stroke="#8a6243" stroke-width="16" stroke-linecap="round" opacity=".5"/>
+  <circle cx="438" cy="574" r="34" fill="#b4684b"/>
+  <circle cx="528" cy="600" r="24" fill="#8a6243"/>
+  <circle cx="602" cy="574" r="30" fill="#2f4c3a"/>
+</svg>

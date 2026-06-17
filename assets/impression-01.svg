@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Filzstruktur Platzhalter</title>
+  <desc id="desc">Abstrakte weiche Filzstruktur in Naturfarben.</desc>
+  <rect width="1200" height="900" fill="#fbf6ec"/>
+  <circle cx="230" cy="180" r="220" fill="#e7d8c2"/>
+  <circle cx="780" cy="220" r="300" fill="#d9e0d3"/>
+  <circle cx="610" cy="620" r="360" fill="#fffdf8"/>
+  <path d="M0 650c170-80 330-80 480 0s330 80 520 0 270-80 200-20v270H0Z" fill="#8a6243" opacity=".22"/>
+  <path d="M166 512c110-94 216-126 318-96 98 29 167 101 273 96 126-6 205-122 328-104" fill="none" stroke="#2f4c3a" stroke-width="16" stroke-linecap="round" opacity=".55"/>
+  <g fill="#b4684b" opacity=".8">
+    <circle cx="260" cy="630" r="42"/>
+    <circle cx="350" cy="690" r="32"/>
+    <circle cx="440" cy="610" r="26"/>
+  </g>
+</svg>

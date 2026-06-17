@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Wolle und Schaf Platzhalter</title>
+  <desc id="desc">Abstrakte Darstellung von Wolle und Schafinspiration.</desc>
+  <rect width="1200" height="900" fill="#fbf6ec"/>
+  <path d="M120 650c110-210 258-315 444-315 218 0 378 122 516 365H120Z" fill="#d9e0d3"/>
+  <g fill="#fffdf8" stroke="#8a6243" stroke-width="8" opacity=".98">
+    <circle cx="412" cy="420" r="76"/>
+    <circle cx="492" cy="360" r="88"/>
+    <circle cx="592" cy="376" r="96"/>
+    <circle cx="690" cy="434" r="82"/>
+    <circle cx="548" cy="492" r="106"/>
+  </g>
+  <circle cx="760" cy="455" r="64" fill="#8a6243"/>
+  <circle cx="783" cy="437" r="8" fill="#252018"/>
+  <path d="M368 610h390" stroke="#2f4c3a" stroke-width="18" stroke-linecap="round" opacity=".45"/>
+  <path d="M325 705c250-74 487-74 710 0" fill="none" stroke="#b4684b" stroke-width="14" stroke-linecap="round" opacity=".55"/>
+</svg>
